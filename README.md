@@ -1,4 +1,4 @@
-# 🩺 The Clinical Architect | Executive Intelligence Dashboard
+# 🩺 The Clinical Architect (NL2SQL Platform)| Executive Intelligence Dashboard
 
 [![Production Ready](https://img.shields.io/badge/Status-Production--Ready-brightgreen)](https://github.com/)
 [![Engine](https://img.shields.io/badge/Engine-Vanna--2.5-blue)](https://vanna.ai/)
