@@ -8,7 +8,16 @@
 
 ---
 
-##  Quick Start (One-Command Deployment)
+## 🛠️ Installation & Setup
+
+### **1. Cloning the Repository**
+To begin, clone this repository to your local clinical environment:
+```bash
+git clone https://github.com/PranayPinjarkar/The-Clinical-Architect-NL2SQL-Platform-.git
+cd The-Clinical-Architect-NL2SQL-Platform-
+```
+
+## 🚀 Quick Start (One-Command Deployment)
 
 Launch the entire Clinical Intelligence suite with a single command. This handles dependency resolution, database initialization, agent memory seeding, and server startup.
 
